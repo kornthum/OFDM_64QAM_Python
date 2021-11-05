@@ -10,4 +10,4 @@ Most code and concept is from https://dspillustrations.com/pages/posts/misc/pyth
 - We visualized OFDM in the time-frequency domain for more understanding.
 
 This project was made by Kornthum Seetanathum and Natchaya Sricom. 
-We will be glad that this project could help whoever seeking OFDM code in python. If you have any suggestions, feel free to give us advice. 
+We will be glad if this project could help whoever is looking for OFDM code in python. If you have any suggestions, feel free to give us advice. 
